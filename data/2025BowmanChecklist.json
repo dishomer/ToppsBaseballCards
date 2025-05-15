@@ -1,0 +1,4363 @@
+[
+  {
+    "cardNumber":"1",
+    "player":"Mike Trout",
+    "team":"Los Angeles Angels",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"3",
+    "player":"Bryce Harper",
+    "team":"Philadelphia Phillies",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"5",
+    "player":"Freddie Freeman",
+    "team":"Los Angeles Dodgers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"7",
+    "player":"Bobby Witt Jr.",
+    "team":"Kansas City Royals",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"9",
+    "player":"Jacob Wilson",
+    "team":"Athletics RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"11",
+    "player":"Jackson Chourio",
+    "team":"Milwaukee Brewers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"13",
+    "player":"Junior Caminero",
+    "team":"Tampa Bay Rays",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"15",
+    "player":"Emmanuel Clase",
+    "team":"Cleveland Guardians",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"17",
+    "player":"Shohei Ohtani",
+    "team":"Los Angeles Dodgers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"19",
+    "player":"Randy Arozarena",
+    "team":"Seattle Mariners",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"21",
+    "player":"Ronald Acuña Jr.",
+    "team":"Atlanta Braves",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"23",
+    "player":"Fernando Tatis Jr.",
+    "team":"San Diego Padres",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"25",
+    "player":"Yordan Alvarez",
+    "team":"Houston Astros",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"27",
+    "player":"Vladimir Guerrero Jr.",
+    "team":"Toronto Blue Jays",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"29",
+    "player":"James Wood",
+    "team":"Washington Nationals RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"31",
+    "player":"Adael Amador",
+    "team":"Colorado Rockies RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"33",
+    "player":"Wyatt Langford",
+    "team":"Texas Rangers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"35",
+    "player":"Adley Rutschman",
+    "team":"Baltimore Orioles",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"37",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"39",
+    "player":"Eury Pérez",
+    "team":"Miami Marlins",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"41",
+    "player":"Tomoyuki Sugano",
+    "team":"Baltimore Orioles RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"43",
+    "player":"Kyle Tucker",
+    "team":"Chicago Cubs",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"45",
+    "player":"Zack Wheeler",
+    "team":"Philadelphia Phillies",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"47",
+    "player":"Shay Whitcomb",
+    "team":"Houston Astros RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"49",
+    "player":"CJ Abrams",
+    "team":"Washington Nationals",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"51",
+    "player":"Shota Imanaga",
+    "team":"Chicago Cubs",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"53",
+    "player":"Ceddanne Rafaela",
+    "team":"Boston Red Sox",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"55",
+    "player":"Zach Neto",
+    "team":"Los Angeles Angels",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"57",
+    "player":"Thomas Saggese",
+    "team":"St. Louis Cardinals RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"59",
+    "player":"Jace Jung",
+    "team":"Detroit Tigers RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"61",
+    "player":"Hurston Waldrep",
+    "team":"Atlanta Braves RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"63",
+    "player":"Jose Altuve",
+    "team":"Houston Astros",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"65",
+    "player":"Trea Turner",
+    "team":"Philadelphia Phillies",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"67",
+    "player":"Christian Yelich",
+    "team":"Milwaukee Brewers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"69",
+    "player":"River Ryan",
+    "team":"Los Angeles Dodgers RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"71",
+    "player":"Ozzie Albies",
+    "team":"Atlanta Braves",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"73",
+    "player":"Carlos Correa",
+    "team":"Minnesota Twins",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"75",
+    "player":"Orelvis Martinez",
+    "team":"Toronto Blue Jays RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"77",
+    "player":"Jackson Holliday",
+    "team":"Baltimore Orioles",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"79",
+    "player":"Julio Rodríguez",
+    "team":"Seattle Mariners",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"81",
+    "player":"Jhonkensy Noel",
+    "team":"Cleveland Guardians RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"83",
+    "player":"Luisangel Acuña",
+    "team":"New York Mets RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"85",
+    "player":"Ben Rice",
+    "team":"New York Yankees RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"87",
+    "player":"Logan Gilbert",
+    "team":"Seattle Mariners",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"89",
+    "player":"José Ramírez",
+    "team":"Cleveland Guardians",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"91",
+    "player":"Hyeseong Kim",
+    "team":"Los Angeles Dodgers RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"93",
+    "player":"Tyler Locklear",
+    "team":"Seattle Mariners RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"95",
+    "player":"Kevin Alcántara",
+    "team":"Chicago Cubs RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"97",
+    "player":"Nick Yorke",
+    "team":"Pittsburgh Pirates RC",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"99",
+    "player":"Aaron Judge",
+    "team":"New York Yankees",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"6",
+    "player":"Rhett Lowder",
+    "team":"Cincinnati Reds",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"12",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"37",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"50",
+    "player":"Jackson Jobe",
+    "team":"Detroit Tigers",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"72",
+    "player":"Brooks Lee",
+    "team":"Minnesota Twins",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"83",
+    "player":"Luisangel Acuña",
+    "team":"New York Mets",
+    "category":"Base Set",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-1",
+    "player":"Walker Jenkins",
+    "team":"Minnesota Twins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-3",
+    "player":"Romeo Sanabria",
+    "team":"San Diego Padres",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-5",
+    "player":"Franyerber Montilla",
+    "team":"Detroit Tigers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-7",
+    "player":"Gregory Barrios",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-9",
+    "player":"Esteban Mejia",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-11",
+    "player":"Jackson Humphries",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-13",
+    "player":"Josue Briceno",
+    "team":"Detroit Tigers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-15",
+    "player":"Walker Janek",
+    "team":"Houston Astros",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-17",
+    "player":"Colt Emerson",
+    "team":"Seattle Mariners",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-19",
+    "player":"Fabian Lopez",
+    "team":"Miami Marlins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-23",
+    "player":"Lazaro Montes",
+    "team":"Seattle Mariners",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-25",
+    "player":"Quinn Mathews",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-27",
+    "player":"Yu-Min Lin",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-29",
+    "player":"David Ortiz Jr.",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-31",
+    "player":"Ricardo Yan",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-33",
+    "player":"Aron Estrada",
+    "team":"Baltimore Orioles",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-35",
+    "player":"Will Simpson",
+    "team":"Athletics",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-37",
+    "player":"Esmith Pineda",
+    "team":"Cincinnati Reds",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-39",
+    "player":"James Tibbs III",
+    "team":"San Francisco Giants",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-41",
+    "player":"Mitch Jebb",
+    "team":"Pittsburgh Pirates",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-43",
+    "player":"Jhostynxon Garcia",
+    "team":"Boston Red Sox",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-45",
+    "player":"Victor Rodrigues",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-47",
+    "player":"Dylan Fien",
+    "team":"Athletics",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-49",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-51",
+    "player":"Hyun-Seok Jang",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-53",
+    "player":"Jacob Bresnahan",
+    "team":"San Francisco Giants",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-55",
+    "player":"Gary Gill Hill",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-57",
+    "player":"Chase Hampton",
+    "team":"New York Yankees",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-59",
+    "player":"Leo De Vries",
+    "team":"San Diego Padres",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-61",
+    "player":"D’Angelo Ortiz",
+    "team":"Boston Red Sox",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-63",
+    "player":"George Klassen",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-65",
+    "player":"Aroon Escobar",
+    "team":"Philadelphia Phillies",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-67",
+    "player":"Franklin Arias",
+    "team":"Boston Red Sox",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-71",
+    "player":"Richard Matic",
+    "team":"New York Yankees",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-73",
+    "player":"Steven Echavarria",
+    "team":"Athletics",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-75",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-77",
+    "player":"Khadim Diaw",
+    "team":"Minnesota Twins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-81",
+    "player":"Aidan Smith",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-83",
+    "player":"Émilien Pitre",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-85",
+    "player":"Jared Sundstrom",
+    "team":"Seattle Mariners",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-87",
+    "player":"Didier Fuentes",
+    "team":"Atlanta Braves",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-89",
+    "player":"Sean Keys",
+    "team":"Toronto Blue Jays",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-91",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-93",
+    "player":"Seaver King",
+    "team":"Washington Nationals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-95",
+    "player":"Tsung-Che Cheng",
+    "team":"Pittsburgh Pirates",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-97",
+    "player":"Cameron Sullivan",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-99",
+    "player":"Naibel Mariano",
+    "team":"Cincinnati Reds",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-101",
+    "player":"Tink Hence",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-103",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-105",
+    "player":"Jonah Tong",
+    "team":"New York Mets",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-107",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-109",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-111",
+    "player":"Jose Pirela",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-113",
+    "player":"Caden Kendle",
+    "team":"Minnesota Twins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-115",
+    "player":"Eduardo Quintero",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-117",
+    "player":"Jesus Tillero",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-119",
+    "player":"Hyungchan Um",
+    "team":"Kansas City Royals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-121",
+    "player":"Winston Santos",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-123",
+    "player":"Jhonayker Ugarte",
+    "team":"Kansas City Royals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-125",
+    "player":"Alejandro Rosario",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-127",
+    "player":"Emil Morales",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-129",
+    "player":"Malcolm Moore",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-131",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-133",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-135",
+    "player":"Lucas Ramirez",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-137",
+    "player":"Kellon Lindsey",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-139",
+    "player":"Kyle DeBarge",
+    "team":"Minnesota Twins",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-141",
+    "player":"Chen-Wei Lin",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-143",
+    "player":"Jakob Wright",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-145",
+    "player":"Matt Wilkinson",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-147",
+    "player":"Jhonny Level",
+    "team":"San Francisco Giants",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-149",
+    "player":"Alex Mooney",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-1",
+    "player":"Walker Jenkins",
+    "team":"Minnesota Twins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-3",
+    "player":"Romeo Sanabria",
+    "team":"San Diego Padres",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-5",
+    "player":"Franyerber Montilla",
+    "team":"Detroit Tigers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-7",
+    "player":"Gregory Barrios",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-9",
+    "player":"Esteban Mejia",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-11",
+    "player":"Jackson Humphries",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-13",
+    "player":"Josue Briceno",
+    "team":"Detroit Tigers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-15",
+    "player":"Walker Janek",
+    "team":"Houston Astros",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-17",
+    "player":"Colt Emerson",
+    "team":"Seattle Mariners",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-19",
+    "player":"Fabian Lopez",
+    "team":"Miami Marlins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-23",
+    "player":"Lazaro Montes",
+    "team":"Seattle Mariners",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-25",
+    "player":"Quinn Mathews",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-27",
+    "player":"Yu-Min Lin",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-29",
+    "player":"David Ortiz Jr.",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-31",
+    "player":"Ricardo Yan",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-33",
+    "player":"Aron Estrada",
+    "team":"Baltimore Orioles",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-35",
+    "player":"Will Simpson",
+    "team":"Athletics",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-37",
+    "player":"Esmith Pineda",
+    "team":"Cincinnati Reds",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-39",
+    "player":"James Tibbs III",
+    "team":"San Francisco Giants",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-41",
+    "player":"Mitch Jebb",
+    "team":"Pittsburgh Pirates",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-43",
+    "player":"Jhostynxon Garcia",
+    "team":"Boston Red Sox",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-45",
+    "player":"Victor Rodrigues",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-47",
+    "player":"Dylan Fien",
+    "team":"Athletics",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-49",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-51",
+    "player":"Hyun-Seok Jang",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-53",
+    "player":"Jacob Bresnahan",
+    "team":"San Francisco Giants",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-55",
+    "player":"Gary Gill Hill",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-57",
+    "player":"Chase Hampton",
+    "team":"New York Yankees",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-59",
+    "player":"Leo De Vries",
+    "team":"San Diego Padres",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-61",
+    "player":"D’Angelo Ortiz",
+    "team":"Boston Red Sox",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-63",
+    "player":"George Klassen",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-65",
+    "player":"Aroon Escobar",
+    "team":"Philadelphia Phillies",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-67",
+    "player":"Franklin Arias",
+    "team":"Boston Red Sox",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-71",
+    "player":"Richard Matic",
+    "team":"New York Yankees",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-73",
+    "player":"Steven Echavarria",
+    "team":"Athletics",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-75",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-77",
+    "player":"Khadim Diaw",
+    "team":"Minnesota Twins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-81",
+    "player":"Aidan Smith",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-83",
+    "player":"Émilien Pitre",
+    "team":"Tampa Bay Rays",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-85",
+    "player":"Jared Sundstrom",
+    "team":"Seattle Mariners",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-87",
+    "player":"Didier Fuentes",
+    "team":"Atlanta Braves",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-89",
+    "player":"Sean Keys",
+    "team":"Toronto Blue Jays",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-91",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-93",
+    "player":"Seaver King",
+    "team":"Washington Nationals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-95",
+    "player":"Tsung-Che Cheng",
+    "team":"Pittsburgh Pirates",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-97",
+    "player":"Cameron Sullivan",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-99",
+    "player":"Naibel Mariano",
+    "team":"Cincinnati Reds",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-101",
+    "player":"Tink Hence",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-103",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-105",
+    "player":"Jonah Tong",
+    "team":"New York Mets",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-107",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-109",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-111",
+    "player":"Jose Pirela",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-113",
+    "player":"Caden Kendle",
+    "team":"Minnesota Twins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-115",
+    "player":"Eduardo Quintero",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-117",
+    "player":"Jesus Tillero",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-119",
+    "player":"Hyungchan Um",
+    "team":"Kansas City Royals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-121",
+    "player":"Winston Santos",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-123",
+    "player":"Jhonayker Ugarte",
+    "team":"Kansas City Royals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-125",
+    "player":"Alejandro Rosario",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-127",
+    "player":"Emil Morales",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-129",
+    "player":"Malcolm Moore",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-131",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-133",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-135",
+    "player":"Lucas Ramirez",
+    "team":"Los Angeles Angels",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-137",
+    "player":"Kellon Lindsey",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-139",
+    "player":"Kyle DeBarge",
+    "team":"Minnesota Twins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-141",
+    "player":"Chen-Wei Lin",
+    "team":"St. Louis Cardinals",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-143",
+    "player":"Jakob Wright",
+    "team":"Los Angeles Dodgers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-145",
+    "player":"Matt Wilkinson",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-147",
+    "player":"Jhonny Level",
+    "team":"San Francisco Giants",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-149",
+    "player":"Alex Mooney",
+    "team":"Cleveland Guardians",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-50",
+    "player":"Jesus Made",
+    "team":"Milwaukee Brewers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-151",
+    "player":"Brooks Robinson",
+    "team":"Baltimore Orioles",
+    "category":"Bowman Chrome Prospects",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-1",
+    "player":"Walker Jenkins",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-3",
+    "player":"Romeo Sanabria",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-5",
+    "player":"Franyerber Montilla",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-7",
+    "player":"Gregory Barrios",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-9",
+    "player":"Esteban Mejia",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-11",
+    "player":"Jackson Humphries",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-13",
+    "player":"Josue Briceno",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-15",
+    "player":"Walker Janek",
+    "team":"Houston Astros",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-17",
+    "player":"Colt Emerson",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-19",
+    "player":"Fabian Lopez",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-23",
+    "player":"Lazaro Montes",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-25",
+    "player":"Quinn Mathews",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-27",
+    "player":"Yu-Min Lin",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-29",
+    "player":"David Ortiz Jr.",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-31",
+    "player":"Ricardo Yan",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-33",
+    "player":"Aron Estrada",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-35",
+    "player":"Will Simpson",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-37",
+    "player":"Esmith Pineda",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-39",
+    "player":"James Tibbs III",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-41",
+    "player":"Mitch Jebb",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-43",
+    "player":"Jhostynxon Garcia",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-45",
+    "player":"Victor Rodrigues",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-47",
+    "player":"Dylan Fien",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-49",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-51",
+    "player":"Hyun-Seok Jang",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-53",
+    "player":"Jacob Bresnahan",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-55",
+    "player":"Gary Gill Hill",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-57",
+    "player":"Chase Hampton",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-59",
+    "player":"Leo De Vries",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-61",
+    "player":"D’Angelo Ortiz",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-63",
+    "player":"George Klassen",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-65",
+    "player":"Aroon Escobar",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-67",
+    "player":"Franklin Arias",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-71",
+    "player":"Richard Matic",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-73",
+    "player":"Steven Echavarria",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-75",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-77",
+    "player":"Khadim Diaw",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-81",
+    "player":"Aidan Smith",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-83",
+    "player":"Émilien Pitre",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-85",
+    "player":"Jared Sundstrom",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-87",
+    "player":"Didier Fuentes",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-89",
+    "player":"Sean Keys",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-91",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-93",
+    "player":"Seaver King",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-95",
+    "player":"Tsung-Che Cheng",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-97",
+    "player":"Cameron Sullivan",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-99",
+    "player":"Naibel Mariano",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-101",
+    "player":"Tink Hence",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-103",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-105",
+    "player":"Jonah Tong",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-107",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-109",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-111",
+    "player":"Jose Pirela",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-113",
+    "player":"Caden Kendle",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-115",
+    "player":"Eduardo Quintero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-117",
+    "player":"Jesus Tillero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-119",
+    "player":"Hyungchan Um",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-121",
+    "player":"Winston Santos",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-123",
+    "player":"Jhonayker Ugarte",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-125",
+    "player":"Alejandro Rosario",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-127",
+    "player":"Emil Morales",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-129",
+    "player":"Malcolm Moore",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-131",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-133",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-135",
+    "player":"Lucas Ramirez",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-137",
+    "player":"Kellon Lindsey",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-139",
+    "player":"Kyle DeBarge",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-141",
+    "player":"Chen-Wei Lin",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-143",
+    "player":"Jakob Wright",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-145",
+    "player":"Matt Wilkinson",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-147",
+    "player":"Jhonny Level",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BP-149",
+    "player":"Alex Mooney",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-1",
+    "player":"Walker Jenkins",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-3",
+    "player":"Romeo Sanabria",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-5",
+    "player":"Franyerber Montilla",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-7",
+    "player":"Gregory Barrios",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-9",
+    "player":"Esteban Mejia",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-11",
+    "player":"Jackson Humphries",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-13",
+    "player":"Josue Briceno",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-15",
+    "player":"Walker Janek",
+    "team":"Houston Astros",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-17",
+    "player":"Colt Emerson",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-19",
+    "player":"Fabian Lopez",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-23",
+    "player":"Lazaro Montes",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-25",
+    "player":"Quinn Mathews",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-27",
+    "player":"Yu-Min Lin",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-29",
+    "player":"David Ortiz Jr.",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-31",
+    "player":"Ricardo Yan",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-33",
+    "player":"Aron Estrada",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-35",
+    "player":"Will Simpson",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-37",
+    "player":"Esmith Pineda",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-39",
+    "player":"James Tibbs III",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-41",
+    "player":"Mitch Jebb",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-43",
+    "player":"Jhostynxon Garcia",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-45",
+    "player":"Victor Rodrigues",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-47",
+    "player":"Dylan Fien",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-49",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-51",
+    "player":"Hyun-Seok Jang",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-53",
+    "player":"Jacob Bresnahan",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-55",
+    "player":"Gary Gill Hill",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-57",
+    "player":"Chase Hampton",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-59",
+    "player":"Leo De Vries",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-61",
+    "player":"D’Angelo Ortiz",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-63",
+    "player":"George Klassen",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-65",
+    "player":"Aroon Escobar",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-67",
+    "player":"Franklin Arias",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-71",
+    "player":"Richard Matic",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-73",
+    "player":"Steven Echavarria",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-75",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-77",
+    "player":"Khadim Diaw",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-81",
+    "player":"Aidan Smith",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-83",
+    "player":"Émilien Pitre",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-85",
+    "player":"Jared Sundstrom",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-87",
+    "player":"Didier Fuentes",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-89",
+    "player":"Sean Keys",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-91",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-93",
+    "player":"Seaver King",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-95",
+    "player":"Tsung-Che Cheng",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-97",
+    "player":"Cameron Sullivan",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-99",
+    "player":"Naibel Mariano",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-101",
+    "player":"Tink Hence",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-103",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-105",
+    "player":"Jonah Tong",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-107",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-109",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-111",
+    "player":"Jose Pirela",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-113",
+    "player":"Caden Kendle",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-115",
+    "player":"Eduardo Quintero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-117",
+    "player":"Jesus Tillero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-119",
+    "player":"Hyungchan Um",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-121",
+    "player":"Winston Santos",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-123",
+    "player":"Jhonayker Ugarte",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-125",
+    "player":"Alejandro Rosario",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-127",
+    "player":"Emil Morales",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-129",
+    "player":"Malcolm Moore",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-131",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-133",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-135",
+    "player":"Lucas Ramirez",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-137",
+    "player":"Kellon Lindsey",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-139",
+    "player":"Kyle DeBarge",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-141",
+    "player":"Chen-Wei Lin",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-143",
+    "player":"Jakob Wright",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-145",
+    "player":"Matt Wilkinson",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-147",
+    "player":"Jhonny Level",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-149",
+    "player":"Alex Mooney",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"UAC-1",
+    "player":"Konnor Griffin",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BDA-JB",
+    "player":"Bobby Witt Jr. \/ Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-AP",
+    "player":"Andrew Painter",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-CB",
+    "player":"Chase Burns",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-CHC",
+    "player":"Chris Campos",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-CM",
+    "player":"Charles McAdoo",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-DH",
+    "player":"David Hagaman",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-EQ",
+    "player":"Eduardo Quintero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-GK",
+    "player":"Grant Knipp",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-JC",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-JM",
+    "player":"Jesus Made",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-JW",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-KE",
+    "player":"Konner Eaton",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-LA",
+    "player":"Luis Almeyda",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-MA",
+    "player":"Mick Abel",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-PM",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-SC",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-TB",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BPA-TT",
+    "player":"Tommy Troy",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-AP",
+    "player":"Andy Pages",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-BD",
+    "player":"Brenton Doyle",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-CC",
+    "player":"Corbin Carroll",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-CM",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-DT",
+    "player":"Drew Thorpe",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-HW",
+    "player":"Hurston Waldrep",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-JD",
+    "player":"Jasson Domínguez",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-JJ",
+    "player":"Josh Jung",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-JL",
+    "player":"Jordan Lawlar",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-JW",
+    "player":"Jordan Westburg",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-KR",
+    "player":"Kumar Rocker",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-MO",
+    "player":"Matt Olson",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-OP",
+    "player":"Oswald Peraza",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-SL",
+    "player":"Seth Lugo",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-TB",
+    "player":"Tyler Black",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-TS",
+    "player":"Thomas Saggese",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-VG",
+    "player":"Vladimir Guerrero Jr.",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"PRV-XE",
+    "player":"Xavier Edwards",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-AA",
+    "player":"Ashly Andujar",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-AES",
+    "player":"Aron Estrada",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-AMO",
+    "player":"Andrew Morris",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-BM",
+    "player":"Braden Montgomery",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CB",
+    "player":"Chase Burns",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CCN",
+    "player":"Conrad Cason",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CFR",
+    "player":"Cody Freeman",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CKE",
+    "player":"Caden Kendle",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CLE",
+    "player":"Cory Lewis",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CMA",
+    "player":"Charles McAdoo",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CMY",
+    "player":"Chase Mobley",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-CSM",
+    "player":"Cam Smith",
+    "team":"Houston Astros",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-DFU",
+    "player":"Didier Fuentes",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-EGO",
+    "player":"Esteban Gonzalez",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-EP",
+    "player":"Esmith Pineda",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-EPZ",
+    "player":"Edgleen Perez",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-EU",
+    "player":"Engelth Urena",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-FL",
+    "player":"Fabian Lopez",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-GB",
+    "player":"Gregory Barrios",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-GK",
+    "player":"George Klassen",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-HC",
+    "player":"Humberto Cruz",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-HU",
+    "player":"Hyungchan Um",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JB",
+    "player":"Josue Briceno",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JCA",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JGA",
+    "player":"Jhostynxon Garcia",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JL",
+    "player":"Jhonny Level",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JLI",
+    "player":"Jack Lines",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JLU",
+    "player":"Jansel Luis",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JMO",
+    "player":"Javier Mogollon",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JPY",
+    "player":"Jack Penney",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JT",
+    "player":"Jesus Tillero",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JU",
+    "player":"Jhonayker Ugarte",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-JVA",
+    "player":"Javier Vaz",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-KC",
+    "player":"Kevyn Castillo",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-KDW",
+    "player":"Khadim Diaw",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-KM",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-LM",
+    "player":"Luis Merejo",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-LR",
+    "player":"Lucas Ramirez",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-MMO",
+    "player":"Malcolm Moore",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-MW",
+    "player":"Matt Wilkinson",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-NM",
+    "player":"Naibel Mariano",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-PE",
+    "player":"Payton Eeles",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-QM",
+    "player":"Quinn Mathews",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-RM",
+    "player":"Richard Matic",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-SC",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-SK",
+    "player":"Sean Keys",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-SW",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-TC",
+    "player":"Tsung-Che Cheng",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-VR",
+    "player":"Victor Rodrigues",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-WJA",
+    "player":"Walker Janek",
+    "team":"Houston Astros",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-WS",
+    "player":"Winston Santos",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-YC",
+    "player":"Yeremi Cabrera",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPA-ZH",
+    "player":"Zyhir Hope",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-CM",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-JO",
+    "player":"Jackson Jobe",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-KA",
+    "player":"Kevin Alcántara",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-LA",
+    "player":"Luisangel Acuña",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-RS",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CRA-SW",
+    "player":"Shay Whitcomb",
+    "team":"Houston Astros",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-BW",
+    "player":"Bobby Witt Jr.",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-DC",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-JC",
+    "player":"Jackson Chourio",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-JJW",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-MT",
+    "player":"Mike Trout",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HSA-RA",
+    "player":"Ronald Acuña Jr.",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"CPR-SC",
+    "player":"Steve Carlton",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-AA",
+    "player":"Adael Amador",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-CM",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-DC",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-JW",
+    "player":"James Wood",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-KR",
+    "player":"Kumar Rocker",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-RL",
+    "player":"Rhett Lowder",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RRA-TS",
+    "player":"Thomas Saggese",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-AA",
+    "player":"Adael Amador",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-CM",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-DR",
+    "player":"Drew Romo",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-JJU",
+    "player":"Jace Jung",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-KR",
+    "player":"Kumar Rocker",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-RL",
+    "player":"Rhett Lowder",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-TS",
+    "player":"Thomas Saggese",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-CB",
+    "player":"Chase Burns",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-CCO",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-CM",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-JC",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-KG",
+    "player":"Konnor Griffin",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-MS",
+    "player":"Matt Shaw",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-SB",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-TW",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-1",
+    "player":"Mike Trout",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-3",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-5",
+    "player":"Mookie Betts",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-7",
+    "player":"Bryce Harper",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-9",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-11",
+    "player":"Walker Jenkins",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-13",
+    "player":"George Brett",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-15",
+    "player":"Derek Jeter",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-17",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-19",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-21",
+    "player":"Hyeseong Kim",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-23",
+    "player":"Juan Soto",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-25",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-27",
+    "player":"Shohei Ohtani",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-29",
+    "player":"Rafael Devers",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-14",
+    "player":"Ichiro",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BA-24",
+    "player":"Hideki Matsui",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-1",
+    "player":"Roman Anthony",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-3",
+    "player":"Carson Williams",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-5",
+    "player":"Samuel Basallo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-7",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-9",
+    "player":"Ethan Salas",
+    "team":"San Diego Padres",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-11",
+    "player":"Bubba Chandler",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-13",
+    "player":"Kristian Campbell",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-15",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-17",
+    "player":"Chase Burns",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-19",
+    "player":"Andrew Painter",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-21",
+    "player":"Josue De Paula",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-23",
+    "player":"Aidan Miller",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-25",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-27",
+    "player":"Bryce Eldridge",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-29",
+    "player":"Colson Montgomery",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-31",
+    "player":"Chase DeLauter",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-33",
+    "player":"Hagen Smith",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-35",
+    "player":"Brandon Sproat",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-37",
+    "player":"Jacob Misiorowski",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-39",
+    "player":"Owen Caissie",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-41",
+    "player":"Dalton Rushing",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-43",
+    "player":"Jeferson Quero",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-45",
+    "player":"Konnor Griffin",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-47",
+    "player":"Justin Crawford",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-49",
+    "player":"Cade Horton",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-51",
+    "player":"Zyhir Hope",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-53",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-55",
+    "player":"Moises Ballesteros",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-57",
+    "player":"Franklin Arias",
+    "team":"Boston Red Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-59",
+    "player":"Spencer Jones",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-61",
+    "player":"Noble Meyer",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-63",
+    "player":"Thayron Liranzo",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-65",
+    "player":"Drake Baldwin",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-67",
+    "player":"Termarr Johnson",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-69",
+    "player":"Jaison Chourio",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-71",
+    "player":"Jonny Farmelo",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-73",
+    "player":"Seaver King",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-75",
+    "player":"Tommy Troy",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-77",
+    "player":"Angel Genao",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-79",
+    "player":"Brayden Taylor",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-81",
+    "player":"Kyle DeBarge",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-83",
+    "player":"Joendry Vargas",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-85",
+    "player":"Cam Caminiti",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-87",
+    "player":"Trey Yesavage",
+    "team":"Toronto Blue Jays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-89",
+    "player":"Jose Perdomo",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-91",
+    "player":"Alex Freeland",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-93",
+    "player":"Paulino Santana",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-95",
+    "player":"Cam Collier",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-97",
+    "player":"Travis Sykora",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BTP-99",
+    "player":"Gary Gill Hill",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-1",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-3",
+    "player":"Bobby Witt Jr.",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-5",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-7",
+    "player":"PJ Morlando",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-9",
+    "player":"Shohei Ohtani",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-11",
+    "player":"James Wood",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-13",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BS-15",
+    "player":"Kumar Rocker",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-1",
+    "player":"Jesus Made",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-3",
+    "player":"Jacob Wilson",
+    "team":"Athletics",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-5",
+    "player":"Hagen Smith",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-7",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-9",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-11",
+    "player":"Luisangel Acuña",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-13",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BWC-15",
+    "player":"James Wood",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-21",
+    "player":"Slade Caldwell",
+    "team":"Arizona Diamondbacks",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-50",
+    "player":"Jesus Made",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-69",
+    "player":"Thomas White",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-79",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-1",
+    "player":"Lazaro Montes",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-3",
+    "player":"Kevin Alcántara",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-5",
+    "player":"Bryce Rainer",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-7",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-9",
+    "player":"Kevin McGonigle",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-11",
+    "player":"Luisangel Acuña",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-13",
+    "player":"Konnor Griffin",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-15",
+    "player":"Kyle Teel",
+    "team":"Chicago White Sox",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-17",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-19",
+    "player":"Christian Moore",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-21",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-23",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"GL-25",
+    "player":"Bryce Eldridge",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-1",
+    "player":"JJ Wetherholt",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-3",
+    "player":"Jackson Chourio",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-5",
+    "player":"James Wood",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-7",
+    "player":"Travis Bazzana",
+    "team":"Cleveland Guardians",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-9",
+    "player":"Roki Sasaki",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-11",
+    "player":"Aaron Judge",
+    "team":"New York Yankees",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-13",
+    "player":"Paul Skenes",
+    "team":"Pittsburgh Pirates",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"HS-15",
+    "player":"Elly De La Cruz",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"BCP-151",
+    "player":"Brooks Robinson",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-1",
+    "player":"Adael Amador",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-3",
+    "player":"Hyeseong Kim",
+    "team":"Los Angeles Dodgers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-5",
+    "player":"Jace Jung",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-7",
+    "player":"Coby Mayo",
+    "team":"Baltimore Orioles",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-9",
+    "player":"Brooks Lee",
+    "team":"Minnesota Twins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-11",
+    "player":"James Wood",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-13",
+    "player":"Connor Norby",
+    "team":"Miami Marlins",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-15",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-17",
+    "player":"Thomas Saggese",
+    "team":"St. Louis Cardinals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"RR-19",
+    "player":"Spencer Schwellenbach",
+    "team":"Atlanta Braves",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-1",
+    "player":"Dylan Crews",
+    "team":"Washington Nationals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-3",
+    "player":"Jackson Jobe",
+    "team":"Detroit Tigers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-5",
+    "player":"Kumar Rocker",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-7",
+    "player":"Caden Dana",
+    "team":"Los Angeles Angels",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-9",
+    "player":"Drew Romo",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-11",
+    "player":"Rhett Lowder",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-13",
+    "player":"Adael Amador",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"ROY-15",
+    "player":"Kevin Alcántara",
+    "team":"Chicago Cubs",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-1",
+    "player":"Carson Williams",
+    "team":"Tampa Bay Rays",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-3",
+    "player":"Sebastian Walcott",
+    "team":"Texas Rangers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-5",
+    "player":"Bryce Eldridge",
+    "team":"San Francisco Giants",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-7",
+    "player":"Chase Burns",
+    "team":"Cincinnati Reds",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-9",
+    "player":"Charlie Condon",
+    "team":"Colorado Rockies",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-11",
+    "player":"Jac Caglianone",
+    "team":"Kansas City Royals",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-13",
+    "player":"Colt Emerson",
+    "team":"Seattle Mariners",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-15",
+    "player":"Cooper Pratt",
+    "team":"Milwaukee Brewers",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-17",
+    "player":"Carson Benge",
+    "team":"New York Mets",
+    "category":"Autographs",
+    "year":2025
+  },
+  {
+    "cardNumber":"VIP-19",
+    "player":"Aidan Miller",
+    "team":"Philadelphia Phillies",
+    "category":"Autographs",
+    "year":2025
+  }
+]
